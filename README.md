@@ -35,7 +35,7 @@ Thank you for your contributions, which have enriched the development process an
 #### Team Members
 - [Abanoub Samir](https://www.github.com/iAbanoubSamir)
 - Mohamed Ragab
-- Rana Shabaan
+- [Rana Shabaan](https://github.com/Rana-shaban)
 - Yasmina Khaled
 - [Safa Nady](https://github.com/9safa1111)
 - Asmaa Mohamed
