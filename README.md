@@ -1,13 +1,6 @@
 
 ![Logo](https://i.imgur.com/fDlcwkI.png)
 
-## 🎥 Project Demo Videos
-
-Hey there! 👋  
-You can check out all the demo videos for this project in the Google Drive folder below:
-
-📁 [Click here to watch the videos](https://drive.google.com/drive/folders/1zD8Dr5LulbYZGRT5sCjiBnxyCFFrlN-r?usp=sharing)
-
 # Myelino MS
 Mobile Android App for MS Detection and Healthcare Management.
 
@@ -17,7 +10,10 @@ Myelino is an innovative mobile Android application designed to revolutionize th
 There is two version from the app:
 - Patient Version
 - Doctor Version
-
+  
+## 🎥 Project Demo Videos
+You can check out all the demo videos for this project in the Google Drive folder below:
+📁 [Click here to watch the videos](https://drive.google.com/drive/folders/1zD8Dr5LulbYZGRT5sCjiBnxyCFFrlN-r?usp=sharing)
 
 ## Acknowledgements
 Myelino is a Graduation Project at The Egyptian E-Learning University (EELU), Computers and Information Technology Faculty, Class of 2024
