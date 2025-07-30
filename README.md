@@ -1,78 +1,89 @@
-
 ![Logo](https://i.imgur.com/fDlcwkI.png)
 
 # Myelino MS
-Mobile Android App for MS Detection and Healthcare Management.
 
-Myelino is an innovative mobile Android application designed to revolutionize the detection and management of Multiple Sclerosis (MS) using advanced Artificial Intelligence (AI) technology. Developed with a focus on user-centric design and cutting-edge AI algorithms, Myelino caters to two primary user groups: Patients and Doctors.
+**Mobile Android App for MS Detection and Healthcare Management**
 
-## Patient Version
-There is two version from the app:
+Myelino is an innovative Android application designed to revolutionize the detection and management of Multiple Sclerosis (MS) using advanced Artificial Intelligence (AI). Built with a user-first mindset and cutting-edge technology, the app supports two main user groups: **Patients** and **Doctors**.
+
+---
+
+## 📱 App Versions
+
+There are two versions of the app:
 - Patient Version
 - Doctor Version
-  
-## 🎥 Project Demo Videos
-Prefer a visual walkthrough?
-📁 [Click here to watch the videos](https://drive.google.com/drive/folders/1zD8Dr5LulbYZGRT5sCjiBnxyCFFrlN-r?usp=sharing)
 
-## Acknowledgements
-Myelino is a Graduation Project at The Egyptian E-Learning University (EELU), Computers and Information Technology Faculty, Class of 2024
+---
 
-We extend our heartfelt thanks to the following individuals and groups whose contributions were instrumental in bringing Myelino to fruition:
+## 🎥 Demo Videos
 
-#### Patients and Doctors
-Your insights and feedback have been invaluable in shaping Myelino into a user-friendly and impactful tool for MS detection and healthcare management.
+Wanna see the app in action?  
+👉 [Watch the demo videos here](https://drive.google.com/drive/folders/1zD8Dr5LulbYZGRT5sCjiBnxyCFFrlN-r?usp=sharing)
 
-#### Mentors, Advisors, and Healthcare Professionals
-We are grateful for your support, guidance, and expert advice throughout the development process.
+---
 
-#### Open-Source Community
-Thank you for your contributions, which have enriched the development process and enabled us to leverage cutting-edge technologies.
+## ✨ Features
 
-#### Supervisors
-- Dr. Wafaa Samy
-- Eng. Amira Abdulrahman
-- Eng. Eman Salah
+Myelino isn't just about MS detection — it's a complete healthcare management experience tailored to the MS community.
 
-#### Team Members
-- [Abanoub Samir](https://www.github.com/iAbanoubSamir)
-- Mohamed Ragab
-- [Rana Shabaan](https://github.com/Rana-shaban)
-- Yasmina Khaled
-- [Safa Nady](https://github.com/9safa1111)
-- Asmaa Mohamed
+### 🧑‍⚕️ Patient Features:
+- **Profile Creation:** Personalized health profiles for secure data management.
+- **MS Detection:** AI-powered symptom and MRI analysis.
+- **Appointment Booking:** Book appointments with healthcare professionals.
+- **Follow-up System:** Stay updated on treatment plans and progress.
+- **Medical Center Access:** Find nearby medical facilities.
+- **Reminders:** Get notified for appointments and medications.
+
+### 👨‍⚕️ Doctor Features:
+- **Professional Profiles:** Showcase specialization and credentials.
+- **MS Detection Tools:** Use AI tools for diagnosis support.
+- **Appointment Management:** Organize, reschedule, or cancel appointments.
+- **Patient System:** Access full patient history and reports.
+- **Center Communication:** Coordinate with medical centers.
+- **Task Reminders:** Never miss a follow-up.
+
+---
+
+## 🙏 Acknowledgements
+
+**Myelino** is a Graduation Project at the *Egyptian E-Learning University (EELU)* – Faculty of Computers and Information Technology, Class of 2024.
+
+We would like to thank:
+
+### 💬 Patients & Doctors  
+Your input was crucial in making Myelino truly user-centered.
+
+### 🧠 Mentors, Advisors & Healthcare Professionals  
+Thank you for your guidance and continuous support.
+
+### 💻 Open-Source Community  
+Your tools and resources made our work stronger.
+
+### 🎓 Supervisors
+- Dr. Wafaa Samy  
+- Eng. Amira Abdulrahman  
+- Eng. Eman Salah  
+
+### 👥 Team Members
+- [Abanoub Samir](https://www.github.com/iAbanoubSamir)  
+- Mohamed Ragab  
+- [Rana Shabaan](https://github.com/Rana-shaban)  
+- Yasmina Khaled  
+- [Safa Nady](https://github.com/9safa1111)  
+- Asmaa Mohamed  
 - Alaa Ramadan
 
-Your dedication, collaboration, and commitment have been essential to the success of Myelino. Thank you for your invaluable contributions.
+Thank you all for being part of the journey❤️
 
-## Features
-Myelino isn't just a detection app; it's a comprehensive suite of tools designed to contribute to and support the global MS society.
-### Patient Features:
-- **Profile Creation:** Patients can create personalized profiles to manage their health information securely.
-- **MS Detection:** Utilize AI-driven detection algorithms to assess MS symptoms and analyze MRI scans.
-- **Appointment Booking:** Schedule appointments with healthcare professionals conveniently through the app.
-- **Follow-up System:** Track progress and receive updates on treatment plans through a comprehensive follow-up system.
-- **Medical Center Access:** Locate and access nearby medical centers for consultations and treatments.
-- **Notifications and Reminders:** Receive timely notifications and reminders for appointments and medication schedules.
-### Doctor Features:
-- **Profile Creation:** Doctors can create detailed profiles with professional information and specialization.
-- **MS Detection:** Employ AI-based tools to assist in MS detection using symptom analysis and interpretation of MRI scans.
-- **Appointment Management:** Efficiently manage patient appointments, rescheduling, and cancellations within the app.
-- **Patient Management System:** Access patient records, treatment histories, and progress reports for comprehensive patient management.
-- **Medical Center Integration:** Communicate with medical centers for referrals, consultations, and collaborative care.
-- **Notifications and Reminders:** Receive alerts and reminders for upcoming appointments and follow-up tasks.
+---
 
-## License
+## ⚖️ License
 
-Proprietary License
+**Proprietary License – All Rights Reserved**
 
-All rights reserved.
+This software and its documentation are the exclusive property of Myelino.  
+You may **not** distribute, sublicense, or modify any part of the Software without prior written permission.
 
-This software and its associated documentation files (the "Software") are owned exclusively by Myelino. You may not distribute, sublicense, or modify the Software, in whole or in part, without express written permission from Myelino.
-
-Unauthorized copying, distribution, or modification of the Software, in whole or in part, is strictly prohibited and may result in legal action.
-
-```
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
-
+> **Note:**  
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
