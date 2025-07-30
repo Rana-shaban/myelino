@@ -12,7 +12,7 @@ There is two version from the app:
 - Doctor Version
   
 ## 🎥 Project Demo Videos
-You can check out all the demo videos for this project in the Google Drive folder below:
+Prefer a visual walkthrough?
 📁 [Click here to watch the videos](https://drive.google.com/drive/folders/1zD8Dr5LulbYZGRT5sCjiBnxyCFFrlN-r?usp=sharing)
 
 ## Acknowledgements
